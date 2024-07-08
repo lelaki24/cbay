@@ -45,8 +45,8 @@
     <div class="container">
         <h1>Maafkan Aku</h1>
         <p>Sayang, aku minta maaf atas kesalahanku. Aku tahu aku telah membuatmu kecewa, dan aku benar-benar menyesal. Aku berharap kita bisa memperbaiki semuanya dan kembali seperti dulu lagi. Aku sangat mencintaimu dan tidak ingin kehilanganmu.</p>
-        <p>Bisakah kita bicara dan menyelesaikan ini bersama?</p>
-        <a href="tel:1234567890" class="button">Hubungi Aku</a>
+        <p>maukah kamu memaafkan ku?</p>
+        <a href="tel:081905291978" class="button">Hubungi aku di wa dan ketik iya</a>
     </div>
 </body>
 </html>
